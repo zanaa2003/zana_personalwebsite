@@ -1,0 +1,17 @@
+div.scroll-container {
+  background-color: mistyrose;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+ol{
+  text-align: center;
+}
+li{
+  background-color: floralwhite;
+  text-align: justify;
+}
